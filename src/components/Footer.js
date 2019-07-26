@@ -48,14 +48,14 @@ const Footer = () => (
           <FooterContainer>
             <Fade left>
               <TextFooter>
-                <span>{`${name} Portfolio - Powered by `}</span>
-                <Link href="https://www.gatsbyjs.org/">Gatsby</Link>
-                <span> and </span>
+                <span>{`Akinsete Akinwale Portfolio`}</span>
+                <Link href="https://www.gatsbyjs.org/"></Link>
+                <span> </span>
                 <Link href="https://www.contentful.com/" mr={1}>
-                  Contentful
+
                 </Link>
                 <span role="img" aria-label="heart">
-                  ❤️
+
                 </span>
               </TextFooter>
             </Fade>
